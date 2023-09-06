@@ -1,0 +1,2 @@
+SUM, MAX, MIN
+---
